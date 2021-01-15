@@ -1,2 +1,2 @@
 # Windsurfer-control-system
-Windsurfer control system，which is based on keil programming，using the c language
+帆板控制系统，基于keil编程，使用c语言
